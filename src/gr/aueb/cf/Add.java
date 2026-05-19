@@ -3,7 +3,7 @@ package gr.aueb.cf;
 public class Add {
 
     public static void main(String[] args) {
-        System.out.println(add(3, 5));
+        System.out.println(add(8, 5));
     }
 
     public static int add(int a, int b) {
